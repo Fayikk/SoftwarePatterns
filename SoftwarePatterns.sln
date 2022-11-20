@@ -11,25 +11,43 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "Bridge\Bridge.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridgee", "Bridgee\Bridgee.csproj", "{1856C378-FEC3-41D6-B2BA-56B9B32285D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Singleton\Adapter.csproj", "{1CBBD811-3613-4C8F-AD16-A7291DD1788D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Singleton\Adapter.csproj", "{1CBBD811-3613-4C8F-AD16-A7291DD1788D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterTrying", "AdapterTrying\AdapterTrying.csproj", "{B964C747-3725-41AB-8963-5A81D331E06A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterTrying", "AdapterTrying\AdapterTrying.csproj", "{B964C747-3725-41AB-8963-5A81D331E06A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{1D64082F-5CD7-4267-B02B-3EF61B93A694}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite", "Composite\Composite.csproj", "{1D64082F-5CD7-4267-B02B-3EF61B93A694}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeTrying", "CompositeTrying\CompositeTrying.csproj", "{972CBA39-3845-4F64-A096-6525D929460C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositeTrying", "CompositeTrying\CompositeTrying.csproj", "{972CBA39-3845-4F64-A096-6525D929460C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridgeee", "Bridgeee\Bridgeee.csproj", "{531AD4E0-8627-46EC-9CC1-3EDAE5CF49B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridgeee", "Bridgeee\Bridgeee.csproj", "{531AD4E0-8627-46EC-9CC1-3EDAE5CF49B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeTrying", "BridgeTrying\BridgeTrying.csproj", "{A4FF0245-ABCA-4A57-84B5-91FCB8BF1017}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BridgeTrying", "BridgeTrying\BridgeTrying.csproj", "{A4FF0245-ABCA-4A57-84B5-91FCB8BF1017}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builderrr", "AbstractFactory\Builderrr.csproj", "{4602FEA7-48C9-494F-9F54-5CDE6B1F9A1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builderrr", "AbstractFactory\Builderrr.csproj", "{4602FEA7-48C9-494F-9F54-5CDE6B1F9A1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRototypeee", "PRototypeee\PRototypeee.csproj", "{6941DD30-A216-40DB-AC15-03F1C4FD00C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PRototypeee", "PRototypeee\PRototypeee.csproj", "{6941DD30-A216-40DB-AC15-03F1C4FD00C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singletonnn", "Singletonnn\Singletonnn.csproj", "{0F338F69-81D3-4904-9EA9-32BAB9CC8023}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singletonnn", "Singletonnn\Singletonnn.csproj", "{0F338F69-81D3-4904-9EA9-32BAB9CC8023}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonTrying", "SingletonTrying\SingletonTrying.csproj", "{DD8CC21D-DC96-49EC-85CB-244EF5A2BC5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonTrying", "SingletonTrying\SingletonTrying.csproj", "{DD8CC21D-DC96-49EC-85CB-244EF5A2BC5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterOneMore", "AdapterOneMore\AdapterOneMore.csproj", "{49BA41E5-8A47-4F57-9239-4DF99DA2EC1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeOneMore", "CompositeOneMore\CompositeOneMore.csproj", "{4F95B167-DF49-4CA1-8543-B3FFA7344F2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeTrying", "PrototypeTrying\PrototypeTrying.csproj", "{68ACD80E-2E23-4254-8205-2A89967037F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonOneMore", "SingletonOneMore\SingletonOneMore.csproj", "{F8B24521-6484-46EF-8C0B-AC99D46FE724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibility", "SingleResponsibility\SingleResponsibility.csproj", "{3C3D2DD6-E95C-480F-8BEF-AB8ED901F694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open_ClosedPrinciple", "Open_ClosedPrinciple\Open_ClosedPrinciple.csproj", "{B66DFF94-982D-40EC-BAF0-C14C7A0D3C68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstition", "LiskovSubstition\LiskovSubstition.csproj", "{D487383F-1F5D-429C-9DF4-3E5E896C4426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregation", "InterfaceSegregation\InterfaceSegregation.csproj", "{97CBCB15-2011-4453-ABF1-8690AB4C04F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversion", "DependencyInversion\DependencyInversion.csproj", "{E872A5E1-5068-41C9-8C1D-19019B880E06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +111,42 @@ Global
 		{DD8CC21D-DC96-49EC-85CB-244EF5A2BC5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD8CC21D-DC96-49EC-85CB-244EF5A2BC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD8CC21D-DC96-49EC-85CB-244EF5A2BC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49BA41E5-8A47-4F57-9239-4DF99DA2EC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BA41E5-8A47-4F57-9239-4DF99DA2EC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BA41E5-8A47-4F57-9239-4DF99DA2EC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BA41E5-8A47-4F57-9239-4DF99DA2EC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F95B167-DF49-4CA1-8543-B3FFA7344F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F95B167-DF49-4CA1-8543-B3FFA7344F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F95B167-DF49-4CA1-8543-B3FFA7344F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F95B167-DF49-4CA1-8543-B3FFA7344F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68ACD80E-2E23-4254-8205-2A89967037F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68ACD80E-2E23-4254-8205-2A89967037F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68ACD80E-2E23-4254-8205-2A89967037F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68ACD80E-2E23-4254-8205-2A89967037F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B24521-6484-46EF-8C0B-AC99D46FE724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B24521-6484-46EF-8C0B-AC99D46FE724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B24521-6484-46EF-8C0B-AC99D46FE724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B24521-6484-46EF-8C0B-AC99D46FE724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C3D2DD6-E95C-480F-8BEF-AB8ED901F694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3D2DD6-E95C-480F-8BEF-AB8ED901F694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3D2DD6-E95C-480F-8BEF-AB8ED901F694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3D2DD6-E95C-480F-8BEF-AB8ED901F694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66DFF94-982D-40EC-BAF0-C14C7A0D3C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66DFF94-982D-40EC-BAF0-C14C7A0D3C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66DFF94-982D-40EC-BAF0-C14C7A0D3C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66DFF94-982D-40EC-BAF0-C14C7A0D3C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D487383F-1F5D-429C-9DF4-3E5E896C4426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D487383F-1F5D-429C-9DF4-3E5E896C4426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D487383F-1F5D-429C-9DF4-3E5E896C4426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D487383F-1F5D-429C-9DF4-3E5E896C4426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97CBCB15-2011-4453-ABF1-8690AB4C04F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CBCB15-2011-4453-ABF1-8690AB4C04F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CBCB15-2011-4453-ABF1-8690AB4C04F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CBCB15-2011-4453-ABF1-8690AB4C04F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E872A5E1-5068-41C9-8C1D-19019B880E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E872A5E1-5068-41C9-8C1D-19019B880E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E872A5E1-5068-41C9-8C1D-19019B880E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E872A5E1-5068-41C9-8C1D-19019B880E06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

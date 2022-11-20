@@ -78,10 +78,13 @@ namespace Bridgeee
 
     public class LogitechRemoteControl : AbstractRemoteControl
     {
+        public LogitechRemoteControl(ITv tv) : base(tv)
+        {
+        }
 
         //Abstract class'ı kullanarak direk olarak interface ile iletiişme geçmemi olduki
         //Dolayasıyla override edilen gereklilikler kullanılmak zorunda değillerdirç
-        
+
         public void SetChannel(int channel)
         {
             SetChannel(channel);
